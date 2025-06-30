@@ -31,5 +31,4 @@
 <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098.svg?logo=graphql&logoColor=white" ></a>
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" ></a>
 <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white" ></a>
-<a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-175DDC?logo=docker& logoColor=white" ></a>
 <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-34A853.svg?logo=selenium&logoColor=white" ></a>

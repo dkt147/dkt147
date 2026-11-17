@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=210&section=header&text=Daniyal%20Khan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Automation%20%26%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%" alt="Daniyal Khan header"/>
+  <img src="assets/header.svg" width="100%" alt="Daniyal Khan — AI Automation & Full Stack Developer"/>
 </p>
 
 <p align="center">
@@ -187,8 +187,8 @@ company type + region → Groq AI discovery → Hunter.io enrichment → Monday.
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dkt147&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkt147&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img src="https://raw.githubusercontent.com/dkt147/dkt147/output/stats.svg" alt="GitHub stats"/>
+  <img src="https://raw.githubusercontent.com/dkt147/dkt147/output/top-langs.svg" alt="Top languages"/>
 </p>
 
 <p align="center">
@@ -199,14 +199,6 @@ company type + region → Groq AI discovery → Hunter.io enrichment → Monday.
 <summary><b>📈 Contribution activity graph</b> <sub>(click to view)</sub></summary>
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dkt147&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph"/>
-</details>
-
-<details>
-<summary><b>🏆 Trophies</b> <sub>(click to view)</sub></summary>
-<br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dkt147&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
-</p>
 </details>
 
 <!-- Snake: generated daily by .github/workflows/snake.yml into the "output" branch -->

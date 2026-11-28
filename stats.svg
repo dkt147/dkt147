@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="235" viewBox="0 0 360 235">
+<style>
+.t{font:600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#70a5fd} .l{font:400 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#c0caf5} .v{font:700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#c0caf5}
+.s{font:400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#565f89}
+.row{opacity:0;animation:in .5s ease-out forwards}
+@keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:translateX(0)}}
+.bar{transform-origin:left;transform:scaleX(0);animation:grow 1s ease-out forwards}
+@keyframes grow{to{transform:scaleX(1)}}
+</style>
+<rect x=".5" y=".5" width="359" height="234" rx="10" fill="#1a1b27" stroke="#2a2e45"/>
+<text class="t" x="25" y="35">Daniyal Khan&#x27;s GitHub Stats</text>
+<g class="row" style="animation-delay:0.00s"><text x="25" y="70" style="font:700 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#bf91f3">★</text><text class="l" x="50" y="70">Total stars earned:</text><text class="v" x="330" y="70" text-anchor="end">2</text></g><g class="row" style="animation-delay:0.15s"><text x="25" y="96" style="font:700 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#bf91f3">⎇</text><text class="l" x="50" y="96">Commits (this year):</text><text class="v" x="330" y="96" text-anchor="end">1.0k</text></g><g class="row" style="animation-delay:0.30s"><text x="25" y="122" style="font:700 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#bf91f3">⇄</text><text class="l" x="50" y="122">Pull requests:</text><text class="v" x="330" y="122" text-anchor="end">2</text></g><g class="row" style="animation-delay:0.45s"><text x="25" y="148" style="font:700 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#bf91f3">◎</text><text class="l" x="50" y="148">Issues:</text><text class="v" x="330" y="148" text-anchor="end">1</text></g><g class="row" style="animation-delay:0.60s"><text x="25" y="174" style="font:700 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#bf91f3">⌂</text><text class="l" x="50" y="174">Public repositories:</text><text class="v" x="330" y="174" text-anchor="end">139</text></g><g class="row" style="animation-delay:0.75s"><text x="25" y="200" style="font:700 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#bf91f3">✦</text><text class="l" x="50" y="200">Contributed to:</text><text class="v" x="330" y="200" text-anchor="end">0</text></g>
+</svg>
